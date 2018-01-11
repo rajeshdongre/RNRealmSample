@@ -1,26 +1,26 @@
 PODS:
   - Mixpanel (3.2.3)
   - ReachabilitySwift (4.1.0)
-  - Realm (2.7.0):
-    - Realm/Headers (= 2.7.0)
-  - Realm/Headers (2.7.0)
-  - RealmSwift (2.7.0):
-    - Realm (= 2.7.0)
+  - Realm (3.0.0):
+    - Realm/Headers (= 3.0.0)
+  - Realm/Headers (3.0.0)
+  - RealmSwift (3.0.0):
+    - Realm (= 3.0.0)
   - RNCryptor (5.0.1)
 
 DEPENDENCIES:
   - Mixpanel
   - ReachabilitySwift
-  - RealmSwift (~> 2.7.0)
+  - RealmSwift (= 3.0.0)
   - RNCryptor (~> 5.0)
 
 SPEC CHECKSUMS:
   Mixpanel: 7bd8e176f088936bf6e283ade0d1f512f8e723bc
   ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
-  Realm: 07e5d3a9e0e41d65fd5f9f05150ed6295d0f093b
-  RealmSwift: 6d06425d3900c86473c4f323bf6949b43fca22bc
+  Realm: dec0de73be8c57506e39db72694d513c189493b3
+  RealmSwift: 44a7090b16d1b22a406c6bf129bdd602db1bbecc
   RNCryptor: 2e352a488779d1a9184ab629be22a7c5bc84acb5
 
-PODFILE CHECKSUM: 00f0877ef15e839443b6d319706605bb06181e98
+PODFILE CHECKSUM: 123cb2593e0c89451541ba69a38fcb94408d4f72
 
 COCOAPODS: 1.3.1

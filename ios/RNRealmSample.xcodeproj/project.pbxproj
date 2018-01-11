@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		04F38E294CA44E6A8BC75041 /* Comic Sans MS.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 15D342E85BD3460890E217F8 /* Comic Sans MS.ttf */; };
+		1A690727AE7BA759A578C8EC /* Pods_RNRealmSample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C5611B7DFA1580E1BDCBB12A /* Pods_RNRealmSample.framework */; };
 		40C7BEA4667649FD84BA0388 /* Microsoft Sans Serif.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7A1FA6422F64A04BD02D928 /* Microsoft Sans Serif.ttf */; };
 		51332AB281DB4A8B963F93D3 /* Roboto_medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9DCA8ADBD99E42239BA3B68A /* Roboto_medium.ttf */; };
 		57C07BB71F84E2E300273DC0 /* libART.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 57C07B9B1F84E2C700273DC0 /* libART.a */; };
@@ -343,6 +344,7 @@
 		A1E3A424F1A24E4DB3C2915F /* Andale Mono.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Andale Mono.ttf"; path = "../node_modules/native-base/Fonts/Andale Mono.ttf"; sourceTree = "<group>"; };
 		AF62BD5F94D78C541FF910C9 /* Pods-RNRealmSample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNRealmSample.release.xcconfig"; path = "Pods/Target Support Files/Pods-RNRealmSample/Pods-RNRealmSample.release.xcconfig"; sourceTree = "<group>"; };
 		BE459FE27F584BD0B39425CC /* Times New Roman.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Times New Roman.ttf"; path = "../node_modules/native-base/Fonts/Times New Roman.ttf"; sourceTree = "<group>"; };
+		C5611B7DFA1580E1BDCBB12A /* Pods_RNRealmSample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RNRealmSample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7A1FA6422F64A04BD02D928 /* Microsoft Sans Serif.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Microsoft Sans Serif.ttf"; path = "../node_modules/native-base/Fonts/Microsoft Sans Serif.ttf"; sourceTree = "<group>"; };
 		F5A937E36FDE43378925FED6 /* Arial Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Arial Black.ttf"; path = "../node_modules/native-base/Fonts/Arial Black.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -377,6 +379,7 @@
 				8C7707571E37FDD200C9C6CC /* libc++.tbd in Frameworks */,
 				8C7707521E37FDC900C9C6CC /* libz.tbd in Frameworks */,
 				8CF1BE4A1FA4FC7B0046105F /* Pods_RNRealmSample.framework in Frameworks */,
+				1A690727AE7BA759A578C8EC /* Pods_RNRealmSample.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -617,6 +620,7 @@
 				8C02AA3A1E840A6E000A2520 /* LocalAuthentication.framework */,
 				8C7707561E37FDD200C9C6CC /* libc++.tbd */,
 				8C7707511E37FDC900C9C6CC /* libz.tbd */,
+				C5611B7DFA1580E1BDCBB12A /* Pods_RNRealmSample.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
